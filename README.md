@@ -2,5 +2,7 @@
 
 To run it: 
 
-1. `cd .\src\`
-2. `tsx index.ts`
+1. `npm i`
+2. `cd .\src\`
+3. `tsx index.ts`
+
